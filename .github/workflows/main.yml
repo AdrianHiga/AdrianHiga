@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@AdrianHiga 
+ELLEN2121
+/
+ELLEN2121
+Public
+Fork your own copy of ELLEN2121/ELLEN2121
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Beta Try the new code view
+ELLEN2121/.github/workflows/main.yml
+@ELLEN2121
+ELLEN2121 Create main.yml
+Latest commit 2fb55af on Jun 5, 2021
+ History
+ 1 contributor
+25 lines (22 sloc)  582 Bytes
+
 name: Generate Datas
 
 on:
@@ -23,4 +53,18 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+ELLEN2121/main.yml at main · ELLEN2121/ELLEN2121
